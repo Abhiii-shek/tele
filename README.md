@@ -17,10 +17,10 @@ Install dependencies:
 
 To start the development server:
     npm start
+
+
 Remaining Tasks
-
-
-
+    
     Task 1: NightMode/Lightmode
     Task 2: seachbox chat-text Input
 
